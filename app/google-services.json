@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "74361888082",
+    "firebase_url": "https://myappfirebase-fa1dd.firebaseio.com",
+    "project_id": "myappfirebase-fa1dd",
+    "storage_bucket": "myappfirebase-fa1dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74361888082:android:daefc88d45ab01c9",
+        "android_client_info": {
+          "package_name": "br.unama.adonias.myappfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74361888082-vf59p88pfr2v4frvskos4m8jn8466a6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWnQLO419-Z7WXq1VVuu43Uk4GQadrvXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74361888082-vf59p88pfr2v4frvskos4m8jn8466a6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
